@@ -1,0 +1,30 @@
+Fixed Income Overview
+1. Money market funds: short-term investments, offering a small rate of return but providing easy availability of funds.
+2. Bonds: pay a predeterminded interest rate for a well-defined period of time.
+3. Certificates of deposit: fixed income investments issued by banks to their retail customs. simple investments that pay a fixed
+   interest rate for a pre-defined period, usually between one and five years. 
+A well known risk is that of the default of the institution issuing the bond. 
+A second big risk is that the rate of return will not be able to cope with inflation during the period of the investment.
+one of the big tasks for software developers is to create systems that can easily track these investments and help in choosing the right options for long-term investors.
+Key concepts.
+1. interest rate.
+2. principal.
+3. compound interest.
+4. continuous compounding.
+5. present value.
+Advantages using C++.
+1. performance, could explore additional low-level techniques for code optimization.
+2. standard compliance.
+3. existing libraries.
+4. multi-paradigm language.
+5. high-level features: OOP,exceptions, template-based containers, type detection, lambda expressions, user-defined constants.
+
+calculating simple interest rates.
+V=P(1+R)
+*a fundamental principle of object-oriented design is to have responsibilities unified under very well defined interfaces.
+*four default member functions
+1. constructor
+2. copy constructor
+3. destructor
+4. assignment operator
+
